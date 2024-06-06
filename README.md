@@ -6,18 +6,18 @@
 
 Features:
 
-##Content Management:
+## Content Management:
 Users can create accounts and log in securely using Google Authentication.
 Registered users can create and publish blog posts.
 Readers can view a list of latest blogs.
 
-##User Interaction:
+## User Interaction:
 Readers can leave comments on blog posts, fostering discussions and engagement. (Replies can be threaded for organized conversations)
 Frontend Built with React and Redux:
 The user interface is built with React, providing a smooth and dynamic experience.
 Redux is used for state management, ensuring data consistency across the application.
 
-##Backend Built with Express and MongoDB:
+## Backend Built with Express and MongoDB:
 The backend is powered by Express.js, handling server-side logic and API requests.
 MongoDB serves as the database for storing blog posts, user data, and comments.
 
