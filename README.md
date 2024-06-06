@@ -21,7 +21,7 @@ Redux is used for state management, ensuring data consistency across the applica
 The backend is powered by Express.js, handling server-side logic and API requests.
 MongoDB serves as the database for storing blog posts, user data, and comments.
 
-##Additional Tools:
+## Additional Tools:
 Firebase integration provides functionalities like user authentication and storage for user avatars or images.
 Tailwind CSS offers a utility-first approach for building responsive and stylish user interfaces.
 Other libraries like React Router DOM, React Quill (for rich text editing), and Moment.js enhance the overall user experience.
