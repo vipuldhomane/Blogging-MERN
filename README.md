@@ -1,8 +1,8 @@
 ### access this project 
 ## https://blog-s0hi.onrender.com/
 
-##MERN Stack Blogging Application with User Authentication and Comments
-###This is a full-stack blogging application built using the MERN stack (MongoDB, Express, React, Node.js). It offers a user-friendly platform for both readers and bloggers.
+## MERN Stack Blogging Application with User Authentication and Comments
+### This is a full-stack blogging application built using the MERN stack (MongoDB, Express, React, Node.js). It offers a user-friendly platform for both readers and bloggers.
 
 Features:
 
